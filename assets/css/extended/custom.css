@@ -1,0 +1,17 @@
+.social-icons a svg:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+footer img{
+    display: inline;
+ }
+
+.post-entry:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+ }
+
+ .first-entry {
+    min-height: 11rem;
+ }
