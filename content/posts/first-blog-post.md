@@ -1,7 +1,7 @@
 ---
 title: Hello World!
 description: Introduction to my blog
-date: 2023-01-01
+date: 2023-01-27
 # weight: 1
 # aliases: ["/first"]
 tags: ["Personal"]
