@@ -56,8 +56,6 @@ params:
       url: "https://reddit.com/u/erciccione"
     - name: pgpkey
       url: "pgp.txt"
-    - name: email
-      url: "/about"
     - name: matrix
       url: "https://matrix.to/#/@erc:cryptoriot.org"
     - name: rss
